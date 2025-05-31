@@ -1,2 +1,2 @@
-aws_region      = "us-east-1"
-container_image = "yourdockerhubusername/simpletimeservice:latest"
+aws_region      = "ap-south-1"
+container_image = "18suraj/simpletimeservice:latest"
